@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\bin\Debug\_08.Recursive_Fibonacci.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\bin\Debug\_08.Recursive_Fibonacci.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\bin\Debug\_08.Recursive_Fibonacci.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\obj\Debug\08. Recursive Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\obj\Debug\08. Recursive Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\obj\Debug\_08.Recursive_Fibonacci.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\obj\Debug\_08.Recursive_Fibonacci.pdb
