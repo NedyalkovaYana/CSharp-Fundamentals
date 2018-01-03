@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\06. A Miner's Task\bin\Debug\_06.A_Miner_s_Task.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\06. A Miner's Task\bin\Debug\_06.A_Miner_s_Task.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\06. A Miner's Task\bin\Debug\_06.A_Miner_s_Task.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\06. A Miner's Task\obj\Debug\06. A Miner's Task.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\06. A Miner's Task\obj\Debug\_06.A_Miner_s_Task.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\06. A Miner's Task\obj\Debug\_06.A_Miner_s_Task.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\02. Sets Of Elements\bin\Debug\_02.Sets_Of_Elements.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\02. Sets Of Elements\bin\Debug\_02.Sets_Of_Elements.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\02. Sets Of Elements\bin\Debug\_02.Sets_Of_Elements.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\02. Sets Of Elements\obj\Debug\02. Sets Of Elements.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\02. Sets Of Elements\obj\Debug\_02.Sets_Of_Elements.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\02. Sets Of Elements\obj\Debug\_02.Sets_Of_Elements.pdb

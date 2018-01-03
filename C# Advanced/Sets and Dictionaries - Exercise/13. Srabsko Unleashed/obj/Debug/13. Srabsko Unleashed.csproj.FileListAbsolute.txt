@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\13. Srabsko Unleashed\bin\Debug\_13.Srabsko_Unleashed.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\13. Srabsko Unleashed\bin\Debug\_13.Srabsko_Unleashed.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\13. Srabsko Unleashed\bin\Debug\_13.Srabsko_Unleashed.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\13. Srabsko Unleashed\obj\Debug\13. Srabsko Unleashed.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\13. Srabsko Unleashed\obj\Debug\13. Srabsko Unleashed.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\13. Srabsko Unleashed\obj\Debug\_13.Srabsko_Unleashed.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\13. Srabsko Unleashed\obj\Debug\_13.Srabsko_Unleashed.pdb

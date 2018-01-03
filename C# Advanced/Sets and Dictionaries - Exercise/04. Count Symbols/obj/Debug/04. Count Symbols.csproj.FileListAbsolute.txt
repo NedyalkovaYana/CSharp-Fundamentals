@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\04. Count Symbols\bin\Debug\_04.Count_Symbols.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\04. Count Symbols\bin\Debug\_04.Count_Symbols.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\04. Count Symbols\bin\Debug\_04.Count_Symbols.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\04. Count Symbols\obj\Debug\04. Count Symbols.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\04. Count Symbols\obj\Debug\_04.Count_Symbols.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\04. Count Symbols\obj\Debug\_04.Count_Symbols.pdb

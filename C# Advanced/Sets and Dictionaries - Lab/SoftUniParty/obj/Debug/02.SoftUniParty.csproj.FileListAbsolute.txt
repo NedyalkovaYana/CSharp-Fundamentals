@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Lab\SoftUniParty\bin\Debug\SoftUniParty.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Lab\SoftUniParty\bin\Debug\SoftUniParty.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Lab\SoftUniParty\bin\Debug\SoftUniParty.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Lab\SoftUniParty\obj\Debug\02.SoftUniParty.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Lab\SoftUniParty\obj\Debug\02.SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Lab\SoftUniParty\obj\Debug\SoftUniParty.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Lab\SoftUniParty\obj\Debug\SoftUniParty.pdb

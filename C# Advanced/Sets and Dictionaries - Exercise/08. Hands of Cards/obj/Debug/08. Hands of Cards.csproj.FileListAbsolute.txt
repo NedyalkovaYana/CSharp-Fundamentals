@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\08. Hands of Cards\bin\Debug\_08.Hands_of_Cards.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\08. Hands of Cards\bin\Debug\_08.Hands_of_Cards.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\08. Hands of Cards\bin\Debug\_08.Hands_of_Cards.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\08. Hands of Cards\obj\Debug\08. Hands of Cards.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\08. Hands of Cards\obj\Debug\_08.Hands_of_Cards.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\08. Hands of Cards\obj\Debug\_08.Hands_of_Cards.pdb
