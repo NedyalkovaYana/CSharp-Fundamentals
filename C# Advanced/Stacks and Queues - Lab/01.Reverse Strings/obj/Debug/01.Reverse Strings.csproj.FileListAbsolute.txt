@@ -1,0 +1,7 @@
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\01.Reverse Strings\bin\Debug\01.Reverse Strings.exe.config
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\01.Reverse Strings\bin\Debug\01.Reverse Strings.exe
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\01.Reverse Strings\bin\Debug\01.Reverse Strings.pdb
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\01.Reverse Strings\obj\Debug\01.Reverse Strings.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\01.Reverse Strings\obj\Debug\01.Reverse Strings.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\01.Reverse Strings\obj\Debug\01.Reverse Strings.exe
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\01.Reverse Strings\obj\Debug\01.Reverse Strings.pdb

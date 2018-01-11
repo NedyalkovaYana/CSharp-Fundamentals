@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.exe.config
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.exe
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.pdb
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.exe
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.pdb

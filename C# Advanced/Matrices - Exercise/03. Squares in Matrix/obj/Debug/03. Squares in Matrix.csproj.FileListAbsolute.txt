@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\03. Squares in Matrix\bin\Debug\_03.Squares_in_Matrix.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\03. Squares in Matrix\bin\Debug\_03.Squares_in_Matrix.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\03. Squares in Matrix\bin\Debug\_03.Squares_in_Matrix.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\03. Squares in Matrix\obj\Debug\03. Squares in Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\03. Squares in Matrix\obj\Debug\03. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\03. Squares in Matrix\obj\Debug\_03.Squares_in_Matrix.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\03. Squares in Matrix\obj\Debug\_03.Squares_in_Matrix.pdb

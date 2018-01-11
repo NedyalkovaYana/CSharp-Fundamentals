@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\04.MatchingBrackets\bin\Debug\04.MatchingBrackets.exe.config
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\04.MatchingBrackets\bin\Debug\04.MatchingBrackets.exe
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\04.MatchingBrackets\bin\Debug\04.MatchingBrackets.pdb
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\04.MatchingBrackets.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\04.MatchingBrackets.exe
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\04.MatchingBrackets.pdb

@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\01. SumOfAllElementsOfMatrix\bin\Debug\_01.SumOfAllElementsOfMatrix.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\01. SumOfAllElementsOfMatrix\bin\Debug\_01.SumOfAllElementsOfMatrix.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\01. SumOfAllElementsOfMatrix\bin\Debug\_01.SumOfAllElementsOfMatrix.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\01. SumOfAllElementsOfMatrix\obj\Debug\01. SumOfAllElementsOfMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\01. SumOfAllElementsOfMatrix\obj\Debug\01. SumOfAllElementsOfMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\01. SumOfAllElementsOfMatrix\obj\Debug\_01.SumOfAllElementsOfMatrix.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\01. SumOfAllElementsOfMatrix\obj\Debug\_01.SumOfAllElementsOfMatrix.pdb

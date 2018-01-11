@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\04. PascalTriangle\bin\Debug\_04.PascalTriangle.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\04. PascalTriangle\bin\Debug\_04.PascalTriangle.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\04. PascalTriangle\bin\Debug\_04.PascalTriangle.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\04. PascalTriangle\obj\Debug\04. PascalTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\04. PascalTriangle\obj\Debug\04. PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\04. PascalTriangle\obj\Debug\_04.PascalTriangle.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\04. PascalTriangle\obj\Debug\_04.PascalTriangle.pdb

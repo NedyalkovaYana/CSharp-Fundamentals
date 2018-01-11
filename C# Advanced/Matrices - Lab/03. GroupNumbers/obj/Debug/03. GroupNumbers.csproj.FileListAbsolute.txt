@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\03. GroupNumbers\bin\Debug\_03.GroupNumbers.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\03. GroupNumbers\bin\Debug\_03.GroupNumbers.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\03. GroupNumbers\bin\Debug\_03.GroupNumbers.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\03. GroupNumbers\obj\Debug\03. GroupNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\03. GroupNumbers\obj\Debug\03. GroupNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\03. GroupNumbers\obj\Debug\_03.GroupNumbers.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\03. GroupNumbers\obj\Debug\_03.GroupNumbers.pdb

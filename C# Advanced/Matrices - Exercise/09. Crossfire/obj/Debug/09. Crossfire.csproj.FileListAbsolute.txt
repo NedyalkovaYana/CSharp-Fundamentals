@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\09. Crossfire\bin\Debug\_09.Crossfire.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\09. Crossfire\bin\Debug\_09.Crossfire.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\09. Crossfire\bin\Debug\_09.Crossfire.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\09. Crossfire\obj\Debug\09. Crossfire.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\09. Crossfire\obj\Debug\09. Crossfire.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\09. Crossfire\obj\Debug\_09.Crossfire.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\09. Crossfire\obj\Debug\_09.Crossfire.pdb

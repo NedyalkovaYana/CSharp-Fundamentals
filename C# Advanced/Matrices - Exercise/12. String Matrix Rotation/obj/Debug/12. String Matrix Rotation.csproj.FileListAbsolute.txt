@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\12. String Matrix Rotation\bin\Debug\_12.String_Matrix_Rotation.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\12. String Matrix Rotation\bin\Debug\_12.String_Matrix_Rotation.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\12. String Matrix Rotation\bin\Debug\_12.String_Matrix_Rotation.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\12. String Matrix Rotation\obj\Debug\12. String Matrix Rotation.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\12. String Matrix Rotation\obj\Debug\12. String Matrix Rotation.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\12. String Matrix Rotation\obj\Debug\_12.String_Matrix_Rotation.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\12. String Matrix Rotation\obj\Debug\_12.String_Matrix_Rotation.pdb

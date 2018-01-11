@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\02. Diagonal Difference\bin\Debug\_02.Diagonal_Difference.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\02. Diagonal Difference\bin\Debug\_02.Diagonal_Difference.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\02. Diagonal Difference\bin\Debug\_02.Diagonal_Difference.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\02. Diagonal Difference\obj\Debug\02. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\02. Diagonal Difference\obj\Debug\_02.Diagonal_Difference.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\02. Diagonal Difference\obj\Debug\_02.Diagonal_Difference.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\02. Diagonal Difference\obj\Debug\02. Diagonal Difference.csprojResolveAssemblyReference.cache

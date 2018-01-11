@@ -1,0 +1,7 @@
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\05.HotPotato\bin\Debug\05.HotPotato.exe.config
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\05.HotPotato\bin\Debug\05.HotPotato.exe
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\05.HotPotato\bin\Debug\05.HotPotato.pdb
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\05.HotPotato\obj\Debug\05.HotPotato.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\05.HotPotato\obj\Debug\05.HotPotato.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\05.HotPotato\obj\Debug\05.HotPotato.exe
+c:\users\yana nedyalkova\Source\Repos\Stacks and Queues - Lab\05.HotPotato\obj\Debug\05.HotPotato.pdb

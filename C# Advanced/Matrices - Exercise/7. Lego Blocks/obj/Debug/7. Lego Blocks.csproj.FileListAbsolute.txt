@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\7. Lego Blocks\bin\Debug\_7.Lego_Blocks.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\7. Lego Blocks\bin\Debug\_7.Lego_Blocks.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\7. Lego Blocks\bin\Debug\_7.Lego_Blocks.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\7. Lego Blocks\obj\Debug\7. Lego Blocks.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\7. Lego Blocks\obj\Debug\7. Lego Blocks.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\7. Lego Blocks\obj\Debug\_7.Lego_Blocks.exe
+C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\7. Lego Blocks\obj\Debug\_7.Lego_Blocks.pdb
