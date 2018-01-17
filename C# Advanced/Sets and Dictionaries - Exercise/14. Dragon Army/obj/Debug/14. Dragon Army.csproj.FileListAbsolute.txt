@@ -1,7 +1,0 @@
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\14. Dragon Army\bin\Debug\_14.Dragon_Army.exe.config
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\14. Dragon Army\bin\Debug\_14.Dragon_Army.exe
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\14. Dragon Army\bin\Debug\_14.Dragon_Army.pdb
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\14. Dragon Army\obj\Debug\14. Dragon Army.csprojResolveAssemblyReference.cache
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\14. Dragon Army\obj\Debug\14. Dragon Army.csproj.CoreCompileInputs.cache
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\14. Dragon Army\obj\Debug\_14.Dragon_Army.exe
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\14. Dragon Army\obj\Debug\_14.Dragon_Army.pdb

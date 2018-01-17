@@ -1,7 +1,0 @@
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\11. Parking System\bin\Debug\_11.Parking_System.exe.config
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\11. Parking System\bin\Debug\_11.Parking_System.exe
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\11. Parking System\bin\Debug\_11.Parking_System.pdb
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\11. Parking System\obj\Debug\11. Parking System.csprojResolveAssemblyReference.cache
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\11. Parking System\obj\Debug\11. Parking System.csproj.CoreCompileInputs.cache
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\11. Parking System\obj\Debug\_11.Parking_System.exe
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\11. Parking System\obj\Debug\_11.Parking_System.pdb

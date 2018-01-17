@@ -1,7 +1,0 @@
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\12. Legendary Farming\bin\Debug\_12.Legendary_Farming.exe.config
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\12. Legendary Farming\bin\Debug\_12.Legendary_Farming.exe
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\12. Legendary Farming\bin\Debug\_12.Legendary_Farming.pdb
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\12. Legendary Farming\obj\Debug\12. Legendary Farming.csprojResolveAssemblyReference.cache
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\12. Legendary Farming\obj\Debug\12. Legendary Farming.csproj.CoreCompileInputs.cache
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\12. Legendary Farming\obj\Debug\_12.Legendary_Farming.exe
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\12. Legendary Farming\obj\Debug\_12.Legendary_Farming.pdb

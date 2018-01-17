@@ -1,7 +1,0 @@
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\6. Target Practice\obj\Debug\6. Target Practice.csprojResolveAssemblyReference.cache
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\6. Target Practice\obj\Debug\6. Target Practice.csproj.CoreCompileInputs.cache
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\6. Target Practice\bin\Debug\_6.Target_Practice.exe.config
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\6. Target Practice\bin\Debug\_6.Target_Practice.exe
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\6. Target Practice\bin\Debug\_6.Target_Practice.pdb
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\6. Target Practice\obj\Debug\_6.Target_Practice.exe
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\6. Target Practice\obj\Debug\_6.Target_Practice.pdb

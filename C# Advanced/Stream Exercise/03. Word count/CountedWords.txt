@@ -1,0 +1,5 @@
+text - 16
+file - 2
+messages - 2
+read - 1
+computer - 1

@@ -1,6 +1,0 @@
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Lab\AcademyGraduation\bin\Debug\AcademyGraduation.exe.config
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Lab\AcademyGraduation\bin\Debug\AcademyGraduation.exe
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Lab\AcademyGraduation\bin\Debug\AcademyGraduation.pdb
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Lab\AcademyGraduation\obj\Debug\04. AcademyGraduation.csproj.CoreCompileInputs.cache
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Lab\AcademyGraduation\obj\Debug\AcademyGraduation.exe
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Lab\AcademyGraduation\obj\Debug\AcademyGraduation.pdb

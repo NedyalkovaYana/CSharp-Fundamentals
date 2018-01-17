@@ -1,7 +1,0 @@
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\02. SquareWithMaximumSum\bin\Debug\_02.SquareWithMaximumSum.exe.config
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\02. SquareWithMaximumSum\bin\Debug\_02.SquareWithMaximumSum.exe
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\02. SquareWithMaximumSum\bin\Debug\_02.SquareWithMaximumSum.pdb
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\02. SquareWithMaximumSum\obj\Debug\02. SquareWithMaximumSum.csprojResolveAssemblyReference.cache
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\02. SquareWithMaximumSum\obj\Debug\02. SquareWithMaximumSum.csproj.CoreCompileInputs.cache
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\02. SquareWithMaximumSum\obj\Debug\_02.SquareWithMaximumSum.exe
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Lab\02. SquareWithMaximumSum\obj\Debug\_02.SquareWithMaximumSum.pdb

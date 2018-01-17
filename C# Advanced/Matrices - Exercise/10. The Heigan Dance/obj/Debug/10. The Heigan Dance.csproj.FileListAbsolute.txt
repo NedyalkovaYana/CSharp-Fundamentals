@@ -1,7 +1,0 @@
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\10. The Heigan Dance\bin\Debug\_10.The_Heigan_Dance.exe.config
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\10. The Heigan Dance\bin\Debug\_10.The_Heigan_Dance.exe
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\10. The Heigan Dance\bin\Debug\_10.The_Heigan_Dance.pdb
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\10. The Heigan Dance\obj\Debug\10. The Heigan Dance.csprojResolveAssemblyReference.cache
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\10. The Heigan Dance\obj\Debug\10. The Heigan Dance.csproj.CoreCompileInputs.cache
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\10. The Heigan Dance\obj\Debug\_10.The_Heigan_Dance.exe
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\10. The Heigan Dance\obj\Debug\_10.The_Heigan_Dance.pdb

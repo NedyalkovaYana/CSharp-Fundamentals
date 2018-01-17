@@ -1,7 +1,0 @@
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\8. Radioactive Bunnies\bin\Debug\_8.Radioactive_Bunnies.exe.config
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\8. Radioactive Bunnies\bin\Debug\_8.Radioactive_Bunnies.exe
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\8. Radioactive Bunnies\bin\Debug\_8.Radioactive_Bunnies.pdb
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\8. Radioactive Bunnies\obj\Debug\8. Radioactive Bunnies.csprojResolveAssemblyReference.cache
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\8. Radioactive Bunnies\obj\Debug\8. Radioactive Bunnies.csproj.CoreCompileInputs.cache
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\8. Radioactive Bunnies\obj\Debug\_8.Radioactive_Bunnies.exe
-C:\Users\Yana Nedyalkova\Source\Repos\Matrices - Exercise\8. Radioactive Bunnies\obj\Debug\_8.Radioactive_Bunnies.pdb

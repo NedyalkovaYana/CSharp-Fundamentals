@@ -1,6 +1,0 @@
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.exe.config
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.exe
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.pdb
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\03. Periodic Table\obj\Debug\03. Periodic Table.csproj.CoreCompileInputs.cache
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\03. Periodic Table\obj\Debug\_03.Periodic_Table.exe
-C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Sets and Dictionaries - Exercise\03. Periodic Table\obj\Debug\_03.Periodic_Table.pdb
