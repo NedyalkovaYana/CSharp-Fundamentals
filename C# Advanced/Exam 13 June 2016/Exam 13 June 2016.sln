@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Jedi Meditation", "01. Jedi Meditation\01. Jedi Meditation.csproj", "{8F929E20-AB5A-446C-93A3-E6927F7FB98F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Jedi Galaxy", "02. Jedi Galaxy\02. Jedi Galaxy.csproj", "{1873552C-771C-4EC4-A4D9-4534A2C70BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Jedi Code-X", "03. Jedi Code-X\03. Jedi Code-X.csproj", "{B630776C-EB19-4CCC-88BB-AED545B6C47B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Jedi Dreams", "04. Jedi Dreams\04. Jedi Dreams.csproj", "{299D54D4-7AFD-443C-A022-F291E8622CEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Test", "01.Test\01.Test.csproj", "{69682C87-826E-47DF-8236-E7CE0F6BE6DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Test", "02.Test\02.Test.csproj", "{854DF4A3-43B9-461E-AF43-AE179DABD66F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F929E20-AB5A-446C-93A3-E6927F7FB98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F929E20-AB5A-446C-93A3-E6927F7FB98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F929E20-AB5A-446C-93A3-E6927F7FB98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F929E20-AB5A-446C-93A3-E6927F7FB98F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1873552C-771C-4EC4-A4D9-4534A2C70BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1873552C-771C-4EC4-A4D9-4534A2C70BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1873552C-771C-4EC4-A4D9-4534A2C70BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1873552C-771C-4EC4-A4D9-4534A2C70BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B630776C-EB19-4CCC-88BB-AED545B6C47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B630776C-EB19-4CCC-88BB-AED545B6C47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B630776C-EB19-4CCC-88BB-AED545B6C47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B630776C-EB19-4CCC-88BB-AED545B6C47B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299D54D4-7AFD-443C-A022-F291E8622CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299D54D4-7AFD-443C-A022-F291E8622CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299D54D4-7AFD-443C-A022-F291E8622CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299D54D4-7AFD-443C-A022-F291E8622CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69682C87-826E-47DF-8236-E7CE0F6BE6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69682C87-826E-47DF-8236-E7CE0F6BE6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69682C87-826E-47DF-8236-E7CE0F6BE6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69682C87-826E-47DF-8236-E7CE0F6BE6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{854DF4A3-43B9-461E-AF43-AE179DABD66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854DF4A3-43B9-461E-AF43-AE179DABD66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854DF4A3-43B9-461E-AF43-AE179DABD66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854DF4A3-43B9-461E-AF43-AE179DABD66F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F1C314D-2794-4C44-A0E8-98C199271918}
+	EndGlobalSection
+EndGlobal
