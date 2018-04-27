@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\03. Greedy Times\bin\Debug\_03.Greedy_Times.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\03. Greedy Times\bin\Debug\_03.Greedy_Times.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\03. Greedy Times\bin\Debug\_03.Greedy_Times.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\03. Greedy Times\obj\Debug\03. Greedy Times.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\03. Greedy Times\obj\Debug\03. Greedy Times.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\03. Greedy Times\obj\Debug\_03.Greedy_Times.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\03. Greedy Times\obj\Debug\_03.Greedy_Times.pdb

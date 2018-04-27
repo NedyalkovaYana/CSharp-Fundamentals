@@ -1,0 +1,10 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\01.GenericBoxfString\bin\Debug\netcoreapp2.0\01.GenericBoxfString.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\01.GenericBoxfString\bin\Debug\netcoreapp2.0\01.GenericBoxfString.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\01.GenericBoxfString\bin\Debug\netcoreapp2.0\01.GenericBoxfString.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\01.GenericBoxfString\bin\Debug\netcoreapp2.0\01.GenericBoxfString.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\01.GenericBoxfString\bin\Debug\netcoreapp2.0\01.GenericBoxfString.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\01.GenericBoxfString\obj\Debug\netcoreapp2.0\01.GenericBoxfString.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\01.GenericBoxfString\obj\Debug\netcoreapp2.0\01.GenericBoxfString.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\01.GenericBoxfString\obj\Debug\netcoreapp2.0\01.GenericBoxfString.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\01.GenericBoxfString\obj\Debug\netcoreapp2.0\01.GenericBoxfString.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\01.GenericBoxfString\obj\Debug\netcoreapp2.0\01.GenericBoxfString.pdb

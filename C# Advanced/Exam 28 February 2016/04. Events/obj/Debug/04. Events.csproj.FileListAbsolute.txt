@@ -1,0 +1,7 @@
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\04. Events\bin\Debug\_04.Events.exe.config
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\04. Events\bin\Debug\_04.Events.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\04. Events\bin\Debug\_04.Events.pdb
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\04. Events\obj\Debug\04. Events.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\04. Events\obj\Debug\04. Events.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\04. Events\obj\Debug\_04.Events.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\04. Events\obj\Debug\_04.Events.pdb

@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft\obj\Debug\Minedraft.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft\obj\Debug\Minedraft.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft\bin\Debug\Minedraft.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft\bin\Debug\Minedraft.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft\bin\Debug\Minedraft.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft\obj\Debug\Minedraft.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft\obj\Debug\Minedraft.pdb

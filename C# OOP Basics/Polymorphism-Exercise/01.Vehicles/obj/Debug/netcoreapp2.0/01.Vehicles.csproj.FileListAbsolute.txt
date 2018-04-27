@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Exercise\01.Vehicles\bin\Debug\netcoreapp2.0\01.Vehicles.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Exercise\01.Vehicles\bin\Debug\netcoreapp2.0\01.Vehicles.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Exercise\01.Vehicles\bin\Debug\netcoreapp2.0\01.Vehicles.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Exercise\01.Vehicles\bin\Debug\netcoreapp2.0\01.Vehicles.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Exercise\01.Vehicles\bin\Debug\netcoreapp2.0\01.Vehicles.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Exercise\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Exercise\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Exercise\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Exercise\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Exercise\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Exercise\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.pdb

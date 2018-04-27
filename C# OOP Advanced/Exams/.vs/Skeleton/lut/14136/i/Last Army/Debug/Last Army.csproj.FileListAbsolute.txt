@@ -1,0 +1,8 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\.vs\Skeleton\lut\0\b\Last Army\bin\Debug\Last Army.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\.vs\Skeleton\lut\0\b\Last Army\bin\Debug\Last Army.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\.vs\Skeleton\lut\0\b\Last Army\bin\Debug\Last Army.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\.vs\Skeleton\lut\0\i\Last Army\Debug\Last Army.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\.vs\Skeleton\lut\0\i\Last Army\Debug\Last Army.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\.vs\Skeleton\lut\0\i\Last Army\Debug\Last Army.csproj.CopyComplete
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\.vs\Skeleton\lut\0\i\Last Army\Debug\Last Army.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\.vs\Skeleton\lut\0\i\Last Army\Debug\Last Army.pdb

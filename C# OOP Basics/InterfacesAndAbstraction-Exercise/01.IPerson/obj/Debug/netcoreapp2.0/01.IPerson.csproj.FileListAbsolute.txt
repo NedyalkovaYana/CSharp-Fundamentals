@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\01.IPerson\bin\Debug\netcoreapp2.0\01.IPerson.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\01.IPerson\bin\Debug\netcoreapp2.0\01.IPerson.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\01.IPerson\bin\Debug\netcoreapp2.0\01.IPerson.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\01.IPerson\bin\Debug\netcoreapp2.0\01.IPerson.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\01.IPerson\bin\Debug\netcoreapp2.0\01.IPerson.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\01.IPerson\obj\Debug\netcoreapp2.0\01.IPerson.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\01.IPerson\obj\Debug\netcoreapp2.0\01.IPerson.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\01.IPerson\obj\Debug\netcoreapp2.0\01.IPerson.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\01.IPerson\obj\Debug\netcoreapp2.0\01.IPerson.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\01.IPerson\obj\Debug\netcoreapp2.0\01.IPerson.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\01.IPerson\obj\Debug\netcoreapp2.0\01.IPerson.pdb

@@ -1,0 +1,22 @@
+C:\Users\david\Desktop\ref\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.deps.json
+C:\Users\david\Desktop\ref\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.json
+C:\Users\david\Desktop\ref\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.dev.json
+C:\Users\david\Desktop\ref\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\david\Desktop\ref\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+C:\Users\david\Desktop\ref\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\ref\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\ref\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\ref\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfo.cs
+C:\Users\david\Desktop\ref\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\david\Desktop\ref\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb

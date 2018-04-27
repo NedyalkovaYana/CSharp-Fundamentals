@@ -1,0 +1,10 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.pdb

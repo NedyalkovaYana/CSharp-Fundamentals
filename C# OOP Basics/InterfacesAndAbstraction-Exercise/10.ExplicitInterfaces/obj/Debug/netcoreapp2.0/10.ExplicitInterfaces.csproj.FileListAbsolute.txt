@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb

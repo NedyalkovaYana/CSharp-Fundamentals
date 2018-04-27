@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\10. Car Salesman\bin\Debug\_10.Car_Salesman.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\10. Car Salesman\bin\Debug\_10.Car_Salesman.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\10. Car Salesman\bin\Debug\_10.Car_Salesman.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\10. Car Salesman\obj\Debug\10. Car Salesman.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\10. Car Salesman\obj\Debug\10. Car Salesman.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\10. Car Salesman\obj\Debug\_10.Car_Salesman.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\10. Car Salesman\obj\Debug\_10.Car_Salesman.pdb

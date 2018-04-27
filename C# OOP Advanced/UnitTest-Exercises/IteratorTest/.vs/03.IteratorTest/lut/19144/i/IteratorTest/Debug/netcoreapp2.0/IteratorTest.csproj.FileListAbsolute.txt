@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\03.IteratorTest\.vs\03.IteratorTest\lut\0\b\IteratorTest\Debug\netcoreapp2.0\IteratorTest.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\03.IteratorTest\.vs\03.IteratorTest\lut\0\b\IteratorTest\Debug\netcoreapp2.0\IteratorTest.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\03.IteratorTest\.vs\03.IteratorTest\lut\0\b\IteratorTest\Debug\netcoreapp2.0\IteratorTest.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\03.IteratorTest\.vs\03.IteratorTest\lut\0\b\IteratorTest\Debug\netcoreapp2.0\IteratorTest.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\03.IteratorTest\.vs\03.IteratorTest\lut\0\b\IteratorTest\Debug\netcoreapp2.0\IteratorTest.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\03.IteratorTest\.vs\03.IteratorTest\lut\0\i\IteratorTest\Debug\netcoreapp2.0\IteratorTest.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\03.IteratorTest\.vs\03.IteratorTest\lut\0\i\IteratorTest\Debug\netcoreapp2.0\IteratorTest.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\03.IteratorTest\.vs\03.IteratorTest\lut\0\i\IteratorTest\Debug\netcoreapp2.0\IteratorTest.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\03.IteratorTest\.vs\03.IteratorTest\lut\0\i\IteratorTest\Debug\netcoreapp2.0\IteratorTest.csproj.CopyComplete
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\03.IteratorTest\.vs\03.IteratorTest\lut\0\i\IteratorTest\Debug\netcoreapp2.0\IteratorTest.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\03.IteratorTest\.vs\03.IteratorTest\lut\0\i\IteratorTest\Debug\netcoreapp2.0\IteratorTest.pdb

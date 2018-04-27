@@ -1,0 +1,9 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\UnitTestsExersices\01.DataBase\bin\Debug\netcoreapp2.0\01.DataBase.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\UnitTestsExersices\01.DataBase\bin\Debug\netcoreapp2.0\01.DataBase.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\UnitTestsExersices\01.DataBase\bin\Debug\netcoreapp2.0\01.DataBase.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\UnitTestsExersices\01.DataBase\obj\Debug\netcoreapp2.0\01.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\UnitTestsExersices\01.DataBase\obj\Debug\netcoreapp2.0\01.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\UnitTestsExersices\01.DataBase\obj\Debug\netcoreapp2.0\01.DataBase.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\UnitTestsExersices\01.DataBase\obj\Debug\netcoreapp2.0\01.DataBase.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\UnitTestsExersices\01.DataBase\obj\Debug\netcoreapp2.0\01.DataBase.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\UnitTestsExersices\01.DataBase\obj\Debug\netcoreapp2.0\01.DataBase.pdb

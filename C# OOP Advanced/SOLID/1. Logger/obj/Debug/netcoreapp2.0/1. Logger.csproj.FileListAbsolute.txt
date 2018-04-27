@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\SOLID\1. Logger\obj\Debug\netcoreapp2.0\1. Logger.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\SOLID\1. Logger\obj\Debug\netcoreapp2.0\1. Logger.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\SOLID\1. Logger\obj\Debug\netcoreapp2.0\1. Logger.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\SOLID\1. Logger\obj\Debug\netcoreapp2.0\1. Logger.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\SOLID\1. Logger\bin\Debug\netcoreapp2.0\1. Logger.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\SOLID\1. Logger\bin\Debug\netcoreapp2.0\1. Logger.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\SOLID\1. Logger\bin\Debug\netcoreapp2.0\1. Logger.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\SOLID\1. Logger\bin\Debug\netcoreapp2.0\1. Logger.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\SOLID\1. Logger\bin\Debug\netcoreapp2.0\1. Logger.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\SOLID\1. Logger\obj\Debug\netcoreapp2.0\1. Logger.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\SOLID\1. Logger\obj\Debug\netcoreapp2.0\1. Logger.pdb

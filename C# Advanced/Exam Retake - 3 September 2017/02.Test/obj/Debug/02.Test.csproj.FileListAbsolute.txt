@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\02.Test\bin\Debug\02.Test.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\02.Test\bin\Debug\02.Test.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\02.Test\bin\Debug\02.Test.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\02.Test\obj\Debug\02.Test.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\02.Test\obj\Debug\02.Test.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\02.Test\obj\Debug\02.Test.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\02.Test\obj\Debug\02.Test.pdb

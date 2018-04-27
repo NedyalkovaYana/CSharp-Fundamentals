@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp2.0\03. Oldest Family Member.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp2.0\03. Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp2.0\03. Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp2.0\03. Oldest Family Member.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp2.0\03. Oldest Family Member.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp2.0\03. Oldest Family Member.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp2.0\03. Oldest Family Member.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp2.0\03. Oldest Family Member.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp2.0\03. Oldest Family Member.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp2.0\03. Oldest Family Member.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp2.0\03. Oldest Family Member.pdb

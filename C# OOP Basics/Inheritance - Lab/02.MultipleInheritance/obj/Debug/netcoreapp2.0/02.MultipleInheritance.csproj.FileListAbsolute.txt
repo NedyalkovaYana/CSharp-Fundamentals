@@ -1,0 +1,13 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.0\02.MultipleInheritance.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.0\02.MultipleInheritance.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.0\02.MultipleInheritance.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.0\02.MultipleInheritance.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.0\02.MultipleInheritance.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.pdb

@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\01.MathOperations\bin\Debug\netcoreapp2.0\01.MathOperations.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\01.MathOperations\bin\Debug\netcoreapp2.0\01.MathOperations.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\01.MathOperations\bin\Debug\netcoreapp2.0\01.MathOperations.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\01.MathOperations\bin\Debug\netcoreapp2.0\01.MathOperations.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\01.MathOperations\bin\Debug\netcoreapp2.0\01.MathOperations.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\01.MathOperations\obj\Debug\netcoreapp2.0\01.MathOperations.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\01.MathOperations\obj\Debug\netcoreapp2.0\01.MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\01.MathOperations\obj\Debug\netcoreapp2.0\01.MathOperations.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\01.MathOperations\obj\Debug\netcoreapp2.0\01.MathOperations.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\01.MathOperations\obj\Debug\netcoreapp2.0\01.MathOperations.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\01.MathOperations\obj\Debug\netcoreapp2.0\01.MathOperations.pdb

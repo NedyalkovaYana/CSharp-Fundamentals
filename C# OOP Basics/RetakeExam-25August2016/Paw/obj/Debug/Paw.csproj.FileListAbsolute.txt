@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\RetakeExam-25August2016\Paw\bin\Debug\Paw.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\RetakeExam-25August2016\Paw\bin\Debug\Paw.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\RetakeExam-25August2016\Paw\bin\Debug\Paw.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\RetakeExam-25August2016\Paw\obj\Debug\Paw.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\RetakeExam-25August2016\Paw\obj\Debug\Paw.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\RetakeExam-25August2016\Paw\obj\Debug\Paw.pdb

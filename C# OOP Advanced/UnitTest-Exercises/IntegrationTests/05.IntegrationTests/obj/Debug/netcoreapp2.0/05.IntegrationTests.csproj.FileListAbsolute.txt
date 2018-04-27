@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.pdb

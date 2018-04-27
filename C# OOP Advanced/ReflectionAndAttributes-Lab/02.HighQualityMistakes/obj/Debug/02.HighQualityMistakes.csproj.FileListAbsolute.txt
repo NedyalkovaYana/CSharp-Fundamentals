@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\02.HighQualityMistakes\bin\Debug\02.HighQualityMistakes.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\02.HighQualityMistakes\bin\Debug\02.HighQualityMistakes.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\02.HighQualityMistakes\bin\Debug\02.HighQualityMistakes.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\02.HighQualityMistakes\obj\Debug\02.HighQualityMistakes.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\02.HighQualityMistakes\obj\Debug\02.HighQualityMistakes.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\02.HighQualityMistakes\obj\Debug\02.HighQualityMistakes.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\02.HighQualityMistakes\obj\Debug\02.HighQualityMistakes.pdb

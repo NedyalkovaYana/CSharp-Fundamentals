@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\2.CardRank\bin\Debug\2.CardRank.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\2.CardRank\bin\Debug\2.CardRank.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\2.CardRank\bin\Debug\2.CardRank.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\2.CardRank\obj\Debug\2.CardRank.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\2.CardRank\obj\Debug\2.CardRank.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\2.CardRank\obj\Debug\2.CardRank.pdb

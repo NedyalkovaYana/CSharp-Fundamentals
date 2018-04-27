@@ -1,0 +1,7 @@
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\01. Collect Resources\bin\Debug\_01.Collect_Resources.exe.config
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\01. Collect Resources\bin\Debug\_01.Collect_Resources.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\01. Collect Resources\bin\Debug\_01.Collect_Resources.pdb
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\01. Collect Resources\obj\Debug\01. Collect Resources.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\01. Collect Resources\obj\Debug\01. Collect Resources.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\01. Collect Resources\obj\Debug\_01.Collect_Resources.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\01. Collect Resources\obj\Debug\_01.Collect_Resources.pdb

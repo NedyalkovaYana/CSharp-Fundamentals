@@ -1,0 +1,7 @@
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\03. Jedi Code-X\bin\Debug\_03.Jedi_Code_X.exe.config
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\03. Jedi Code-X\bin\Debug\_03.Jedi_Code_X.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\03. Jedi Code-X\bin\Debug\_03.Jedi_Code_X.pdb
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\03. Jedi Code-X\obj\Debug\03. Jedi Code-X.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\03. Jedi Code-X\obj\Debug\03. Jedi Code-X.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\03. Jedi Code-X\obj\Debug\_03.Jedi_Code_X.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\03. Jedi Code-X\obj\Debug\_03.Jedi_Code_X.pdb

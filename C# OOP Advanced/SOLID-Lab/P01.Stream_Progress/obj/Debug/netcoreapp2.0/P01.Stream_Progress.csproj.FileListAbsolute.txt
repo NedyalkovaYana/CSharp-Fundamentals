@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp2.0\P01.Stream_Progress.deps.json
+C:\Users\Yana Nedyalkova\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp2.0\P01.Stream_Progress.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp2.0\P01.Stream_Progress.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp2.0\P01.Stream_Progress.dll
+C:\Users\Yana Nedyalkova\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp2.0\P01.Stream_Progress.pdb
+C:\Users\Yana Nedyalkova\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.dll
+C:\Users\Yana Nedyalkova\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.pdb

@@ -1,0 +1,22 @@
+C:\Users\david\Desktop\ref\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+C:\Users\david\Desktop\ref\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+C:\Users\david\Desktop\ref\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+C:\Users\david\Desktop\ref\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\david\Desktop\ref\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Users\david\Desktop\ref\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\ref\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\ref\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+C:\Users\david\Desktop\ref\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\david\Desktop\ref\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Users\david\Desktop\ref\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\bin\Debug\03.MissionPrivateImpossible.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\bin\Debug\03.MissionPrivateImpossible.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\bin\Debug\03.MissionPrivateImpossible.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\03.MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\03.MissionPrivateImpossible.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\03.MissionPrivateImpossible.pdb

@@ -1,0 +1,11 @@
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\bin\Debug\netcoreapp2.0\Persons.deps.json
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\bin\Debug\netcoreapp2.0\Persons.runtimeconfig.json
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\bin\Debug\netcoreapp2.0\Persons.runtimeconfig.dev.json
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\bin\Debug\netcoreapp2.0\Persons.dll
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\bin\Debug\netcoreapp2.0\Persons.pdb
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\obj\Debug\netcoreapp2.0\Persons.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\obj\Debug\netcoreapp2.0\Persons.AssemblyInfoInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\obj\Debug\netcoreapp2.0\Persons.AssemblyInfo.cs
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\obj\Debug\netcoreapp2.0\Persons.dll
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\obj\Debug\netcoreapp2.0\Persons.pdb
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\obj\Debug\netcoreapp2.0\Persons.csprojResolveAssemblyReference.cache

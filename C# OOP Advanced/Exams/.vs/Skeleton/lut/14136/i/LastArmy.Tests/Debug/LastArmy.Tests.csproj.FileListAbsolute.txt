@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\.vs\Skeleton\lut\0\b\LastArmy.Tests\bin\Debug\LastArmy.Tests.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\.vs\Skeleton\lut\0\b\LastArmy.Tests\bin\Debug\LastArmy.Tests.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\.vs\Skeleton\lut\0\i\LastArmy.Tests\Debug\LastArmy.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\.vs\Skeleton\lut\0\i\LastArmy.Tests\Debug\LastArmy.Tests.csproj.CopyComplete
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\.vs\Skeleton\lut\0\i\LastArmy.Tests\Debug\LastArmy.Tests.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\.vs\Skeleton\lut\0\i\LastArmy.Tests\Debug\LastArmy.Tests.pdb

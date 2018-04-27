@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\11. Pokemon Trainer\bin\Debug\_11.Pokemon_Trainer.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\11. Pokemon Trainer\bin\Debug\_11.Pokemon_Trainer.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\11. Pokemon Trainer\bin\Debug\_11.Pokemon_Trainer.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\11. Pokemon Trainer.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\11. Pokemon Trainer.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\_11.Pokemon_Trainer.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\_11.Pokemon_Trainer.pdb

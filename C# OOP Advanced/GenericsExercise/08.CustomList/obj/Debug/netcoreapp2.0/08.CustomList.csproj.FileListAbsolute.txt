@@ -1,0 +1,10 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\08.CustomList\bin\Debug\netcoreapp2.0\08.CustomList.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\08.CustomList\bin\Debug\netcoreapp2.0\08.CustomList.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\08.CustomList\bin\Debug\netcoreapp2.0\08.CustomList.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\08.CustomList\bin\Debug\netcoreapp2.0\08.CustomList.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\08.CustomList\bin\Debug\netcoreapp2.0\08.CustomList.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\08.CustomList\obj\Debug\netcoreapp2.0\08.CustomList.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\08.CustomList\obj\Debug\netcoreapp2.0\08.CustomList.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\08.CustomList\obj\Debug\netcoreapp2.0\08.CustomList.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\08.CustomList\obj\Debug\netcoreapp2.0\08.CustomList.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\08.CustomList\obj\Debug\netcoreapp2.0\08.CustomList.pdb

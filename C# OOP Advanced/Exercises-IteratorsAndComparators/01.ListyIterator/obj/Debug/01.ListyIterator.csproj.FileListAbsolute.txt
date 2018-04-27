@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\01.ListyIterator\bin\Debug\01.ListyIterator.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\01.ListyIterator\bin\Debug\01.ListyIterator.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\01.ListyIterator\bin\Debug\01.ListyIterator.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\01.ListyIterator\obj\Debug\01.ListyIterator.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\01.ListyIterator\obj\Debug\01.ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\01.ListyIterator\obj\Debug\01.ListyIterator.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\01.ListyIterator\obj\Debug\01.ListyIterator.pdb

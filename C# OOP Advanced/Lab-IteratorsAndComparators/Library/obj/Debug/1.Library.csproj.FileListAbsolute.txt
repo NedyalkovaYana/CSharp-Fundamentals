@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Lab-IteratorsAndComparators\1.Library\bin\Debug\1.Library.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Lab-IteratorsAndComparators\1.Library\bin\Debug\1.Library.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Lab-IteratorsAndComparators\1.Library\bin\Debug\1.Library.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Lab-IteratorsAndComparators\1.Library\obj\Debug\1.Library.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Lab-IteratorsAndComparators\1.Library\obj\Debug\1.Library.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Lab-IteratorsAndComparators\1.Library\obj\Debug\1.Library.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Lab-IteratorsAndComparators\1.Library\obj\Debug\1.Library.pdb

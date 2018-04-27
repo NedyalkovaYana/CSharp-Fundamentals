@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Encapsulation-Exercise\05. Pizza Calories\bin\Debug\netcoreapp2.0\05. Pizza Calories.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Encapsulation-Exercise\05. Pizza Calories\bin\Debug\netcoreapp2.0\05. Pizza Calories.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Encapsulation-Exercise\05. Pizza Calories\bin\Debug\netcoreapp2.0\05. Pizza Calories.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Encapsulation-Exercise\05. Pizza Calories\bin\Debug\netcoreapp2.0\05. Pizza Calories.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Encapsulation-Exercise\05. Pizza Calories\bin\Debug\netcoreapp2.0\05. Pizza Calories.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Encapsulation-Exercise\05. Pizza Calories\obj\Debug\netcoreapp2.0\05. Pizza Calories.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Encapsulation-Exercise\05. Pizza Calories\obj\Debug\netcoreapp2.0\05. Pizza Calories.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Encapsulation-Exercise\05. Pizza Calories\obj\Debug\netcoreapp2.0\05. Pizza Calories.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Encapsulation-Exercise\05. Pizza Calories\obj\Debug\netcoreapp2.0\05. Pizza Calories.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Encapsulation-Exercise\05. Pizza Calories\obj\Debug\netcoreapp2.0\05. Pizza Calories.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Encapsulation-Exercise\05. Pizza Calories\obj\Debug\netcoreapp2.0\05. Pizza Calories.pdb

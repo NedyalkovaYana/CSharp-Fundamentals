@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\07. Speed Racing\bin\Debug\_07.Speed_Racing.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\07. Speed Racing\bin\Debug\_07.Speed_Racing.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\07. Speed Racing\bin\Debug\_07.Speed_Racing.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\07. Speed Racing\obj\Debug\07. Speed Racing.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\07. Speed Racing\obj\Debug\07. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\07. Speed Racing\obj\Debug\_07.Speed_Racing.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\07. Speed Racing\obj\Debug\_07.Speed_Racing.pdb

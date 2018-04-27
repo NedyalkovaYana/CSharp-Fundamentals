@@ -1,0 +1,10 @@
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\bin\Debug\netcoreapp2.0\Salary.deps.json
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\bin\Debug\netcoreapp2.0\Salary.runtimeconfig.json
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\bin\Debug\netcoreapp2.0\Salary.runtimeconfig.dev.json
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\bin\Debug\netcoreapp2.0\Salary.dll
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\bin\Debug\netcoreapp2.0\Salary.pdb
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\obj\Debug\netcoreapp2.0\Salary.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\obj\Debug\netcoreapp2.0\Salary.AssemblyInfoInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\obj\Debug\netcoreapp2.0\Salary.AssemblyInfo.cs
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\obj\Debug\netcoreapp2.0\Salary.dll
+c:\users\yana nedyalkova\Source\Repos\Encapsulation-Lab\Salary\obj\Debug\netcoreapp2.0\Salary.pdb

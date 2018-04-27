@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\09.LinkedListTraversal.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\09.LinkedListTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\09.LinkedListTraversal\bin\Debug\09.LinkedListTraversal.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\09.LinkedListTraversal\bin\Debug\09.LinkedListTraversal.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\09.LinkedListTraversal\bin\Debug\09.LinkedListTraversal.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\09.LinkedListTraversal.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\09.LinkedListTraversal.pdb

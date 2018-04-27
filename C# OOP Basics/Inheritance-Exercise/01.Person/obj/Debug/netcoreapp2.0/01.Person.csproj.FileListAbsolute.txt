@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp2.0\01.Person.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp2.0\01.Person.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp2.0\01.Person.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.pdb

@@ -1,0 +1,7 @@
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\03. Softuni Numerals\bin\Debug\_03.Softuni_Numerals.exe.config
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\03. Softuni Numerals\bin\Debug\_03.Softuni_Numerals.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\03. Softuni Numerals\bin\Debug\_03.Softuni_Numerals.pdb
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\03. Softuni Numerals\obj\Debug\03. Softuni Numerals.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\03. Softuni Numerals\obj\Debug\03. Softuni Numerals.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\03. Softuni Numerals\obj\Debug\_03.Softuni_Numerals.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\03. Softuni Numerals\obj\Debug\_03.Softuni_Numerals.pdb

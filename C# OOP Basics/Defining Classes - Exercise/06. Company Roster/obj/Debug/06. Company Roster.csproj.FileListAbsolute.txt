@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\06. Company Roster\bin\Debug\_06.Company_Roster.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\06. Company Roster\bin\Debug\_06.Company_Roster.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\06. Company Roster\bin\Debug\_06.Company_Roster.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\06. Company Roster\obj\Debug\06. Company Roster.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\06. Company Roster\obj\Debug\06. Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\06. Company Roster\obj\Debug\_06.Company_Roster.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\06. Company Roster\obj\Debug\_06.Company_Roster.pdb

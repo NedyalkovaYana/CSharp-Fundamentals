@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\1. Rhombus of Stars\bin\Debug\netcoreapp2.0\1. Rhombus of Stars.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\1. Rhombus of Stars\bin\Debug\netcoreapp2.0\1. Rhombus of Stars.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\1. Rhombus of Stars\bin\Debug\netcoreapp2.0\1. Rhombus of Stars.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\1. Rhombus of Stars\bin\Debug\netcoreapp2.0\1. Rhombus of Stars.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\1. Rhombus of Stars\bin\Debug\netcoreapp2.0\1. Rhombus of Stars.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\1. Rhombus of Stars\obj\Debug\netcoreapp2.0\1. Rhombus of Stars.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\1. Rhombus of Stars\obj\Debug\netcoreapp2.0\1. Rhombus of Stars.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\1. Rhombus of Stars\obj\Debug\netcoreapp2.0\1. Rhombus of Stars.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\1. Rhombus of Stars\obj\Debug\netcoreapp2.0\1. Rhombus of Stars.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\1. Rhombus of Stars\obj\Debug\netcoreapp2.0\1. Rhombus of Stars.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\1. Rhombus of Stars\obj\Debug\netcoreapp2.0\1. Rhombus of Stars.pdb

@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\08.PetClinic\bin\Debug\08.PetClinic.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\08.PetClinic\bin\Debug\08.PetClinic.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\08.PetClinic\bin\Debug\08.PetClinic.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\08.PetClinic\obj\Debug\08.PetClinic.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\08.PetClinic\obj\Debug\08.PetClinic.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\08.PetClinic\obj\Debug\08.PetClinic.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\08.PetClinic\obj\Debug\08.PetClinic.pdb

@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\DependencyInversion\bin\Debug\netcoreapp2.0\DependencyInversion.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\DependencyInversion\bin\Debug\netcoreapp2.0\DependencyInversion.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\DependencyInversion\bin\Debug\netcoreapp2.0\DependencyInversion.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\DependencyInversion\bin\Debug\netcoreapp2.0\DependencyInversion.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\DependencyInversion\bin\Debug\netcoreapp2.0\DependencyInversion.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\DependencyInversion\obj\Debug\netcoreapp2.0\DependencyInversion.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\DependencyInversion\obj\Debug\netcoreapp2.0\DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\DependencyInversion\obj\Debug\netcoreapp2.0\DependencyInversion.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\DependencyInversion\obj\Debug\netcoreapp2.0\DependencyInversion.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\DependencyInversion\obj\Debug\netcoreapp2.0\DependencyInversion.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\DependencyInversion\obj\Debug\netcoreapp2.0\DependencyInversion.pdb

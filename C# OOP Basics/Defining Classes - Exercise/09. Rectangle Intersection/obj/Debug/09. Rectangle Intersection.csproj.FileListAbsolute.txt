@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\09. Rectangle Intersection\bin\Debug\_09.Rectangle_Intersection.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\09. Rectangle Intersection\bin\Debug\_09.Rectangle_Intersection.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\09. Rectangle Intersection\bin\Debug\_09.Rectangle_Intersection.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\09. Rectangle Intersection.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\09. Rectangle Intersection.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\_09.Rectangle_Intersection.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\_09.Rectangle_Intersection.pdb

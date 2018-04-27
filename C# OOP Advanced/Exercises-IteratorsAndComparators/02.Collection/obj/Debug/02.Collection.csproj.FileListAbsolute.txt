@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\02.Collection\bin\Debug\02.Collection.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\02.Collection\bin\Debug\02.Collection.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\02.Collection\bin\Debug\02.Collection.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\02.Collection\obj\Debug\02.Collection.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\02.Collection\obj\Debug\02.Collection.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\02.Collection\obj\Debug\02.Collection.pdb

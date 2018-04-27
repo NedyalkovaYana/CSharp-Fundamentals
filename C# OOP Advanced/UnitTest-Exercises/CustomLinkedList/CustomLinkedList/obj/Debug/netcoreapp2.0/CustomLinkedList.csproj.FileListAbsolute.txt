@@ -1,0 +1,9 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\CustomLinkedList.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\CustomLinkedList.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\CustomLinkedList.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.pdb

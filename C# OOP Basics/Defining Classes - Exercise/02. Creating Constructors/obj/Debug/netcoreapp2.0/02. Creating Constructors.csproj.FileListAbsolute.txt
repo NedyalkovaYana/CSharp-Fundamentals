@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.0\02. Creating Constructors.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.0\02. Creating Constructors.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.0\02. Creating Constructors.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.0\02. Creating Constructors.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.0\02. Creating Constructors.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.0\02. Creating Constructors.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.0\02. Creating Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.0\02. Creating Constructors.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.0\02. Creating Constructors.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.0\02. Creating Constructors.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.0\02. Creating Constructors.pdb

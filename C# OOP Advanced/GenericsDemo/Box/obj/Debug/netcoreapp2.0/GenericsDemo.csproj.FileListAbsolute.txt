@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp2.0\GenericsDemo.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp2.0\GenericsDemo.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp2.0\GenericsDemo.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp2.0\GenericsDemo.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp2.0\GenericsDemo.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp2.0\GenericsDemo.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp2.0\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp2.0\GenericsDemo.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp2.0\GenericsDemo.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp2.0\GenericsDemo.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp2.0\GenericsDemo.pdb

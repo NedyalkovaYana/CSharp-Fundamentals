@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\KingsGambit\bin\Debug\netcoreapp2.0\KingsGambit.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\KingsGambit\bin\Debug\netcoreapp2.0\KingsGambit.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\KingsGambit\bin\Debug\netcoreapp2.0\KingsGambit.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\KingsGambit\bin\Debug\netcoreapp2.0\KingsGambit.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\KingsGambit\bin\Debug\netcoreapp2.0\KingsGambit.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\CommunicationAndEvent-Exercises\ObjectCommunicationAndEvents-Exercise\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.pdb

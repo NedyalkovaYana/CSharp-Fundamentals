@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\Classwork\bin\Release\Classwork.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\Classwork\bin\Release\Classwork.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\Classwork\bin\Release\Classwork.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\Classwork\obj\Release\Classwork.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\Classwork\obj\Release\Classwork.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\Classwork\obj\Release\Classwork.pdb

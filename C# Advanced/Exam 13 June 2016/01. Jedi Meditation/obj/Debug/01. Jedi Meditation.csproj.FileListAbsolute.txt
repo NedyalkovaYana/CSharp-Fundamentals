@@ -1,0 +1,7 @@
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\01. Jedi Meditation\bin\Debug\_01.Jedi_Meditation.exe.config
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\01. Jedi Meditation\bin\Debug\_01.Jedi_Meditation.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\01. Jedi Meditation\bin\Debug\_01.Jedi_Meditation.pdb
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\01. Jedi Meditation\obj\Debug\01. Jedi Meditation.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\01. Jedi Meditation\obj\Debug\_01.Jedi_Meditation.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\01. Jedi Meditation\obj\Debug\_01.Jedi_Meditation.pdb
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\01. Jedi Meditation\obj\Debug\01. Jedi Meditation.csprojResolveAssemblyReference.cache

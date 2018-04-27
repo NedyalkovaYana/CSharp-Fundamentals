@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\03.StudentSystem\bin\Debug\netcoreapp2.0\03.StudentSystem.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\03.StudentSystem\bin\Debug\netcoreapp2.0\03.StudentSystem.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\03.StudentSystem\bin\Debug\netcoreapp2.0\03.StudentSystem.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\03.StudentSystem\bin\Debug\netcoreapp2.0\03.StudentSystem.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\03.StudentSystem\bin\Debug\netcoreapp2.0\03.StudentSystem.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\03.StudentSystem\obj\Debug\netcoreapp2.0\03.StudentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\03.StudentSystem\obj\Debug\netcoreapp2.0\03.StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\03.StudentSystem\obj\Debug\netcoreapp2.0\03.StudentSystem.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\03.StudentSystem\obj\Debug\netcoreapp2.0\03.StudentSystem.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\03.StudentSystem\obj\Debug\netcoreapp2.0\03.StudentSystem.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\03.StudentSystem\obj\Debug\netcoreapp2.0\03.StudentSystem.pdb

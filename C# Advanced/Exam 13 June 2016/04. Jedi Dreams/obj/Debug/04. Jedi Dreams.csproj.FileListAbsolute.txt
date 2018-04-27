@@ -1,0 +1,7 @@
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\04. Jedi Dreams\bin\Debug\_04.Jedi_Dreams.exe.config
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\04. Jedi Dreams\bin\Debug\_04.Jedi_Dreams.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\04. Jedi Dreams\bin\Debug\_04.Jedi_Dreams.pdb
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\04. Jedi Dreams\obj\Debug\04. Jedi Dreams.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\04. Jedi Dreams\obj\Debug\04. Jedi Dreams.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\04. Jedi Dreams\obj\Debug\_04.Jedi_Dreams.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\04. Jedi Dreams\obj\Debug\_04.Jedi_Dreams.pdb

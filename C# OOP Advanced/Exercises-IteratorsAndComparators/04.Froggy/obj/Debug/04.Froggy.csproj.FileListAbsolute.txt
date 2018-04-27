@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\04.Froggy\bin\Debug\04.Froggy.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\04.Froggy\bin\Debug\04.Froggy.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\04.Froggy\bin\Debug\04.Froggy.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\04.Froggy\obj\Debug\04.Froggy.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\04.Froggy\obj\Debug\04.Froggy.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\04.Froggy\obj\Debug\04.Froggy.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\04.Froggy\obj\Debug\04.Froggy.pdb

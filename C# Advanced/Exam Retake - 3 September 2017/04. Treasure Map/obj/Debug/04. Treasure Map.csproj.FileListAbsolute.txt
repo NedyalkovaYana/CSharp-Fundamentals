@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\04. Treasure Map\bin\Debug\_04.Treasure_Map.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\04. Treasure Map\bin\Debug\_04.Treasure_Map.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\04. Treasure Map\bin\Debug\_04.Treasure_Map.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\04. Treasure Map\obj\Debug\04. Treasure Map.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\04. Treasure Map\obj\Debug\04. Treasure Map.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\04. Treasure Map\obj\Debug\_04.Treasure_Map.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\04. Treasure Map\obj\Debug\_04.Treasure_Map.pdb

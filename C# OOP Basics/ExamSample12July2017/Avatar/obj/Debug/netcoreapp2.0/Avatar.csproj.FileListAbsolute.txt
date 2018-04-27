@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\ExamSample12July2017\Avatar\bin\Debug\netcoreapp2.0\Avatar.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\ExamSample12July2017\Avatar\bin\Debug\netcoreapp2.0\Avatar.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\ExamSample12July2017\Avatar\bin\Debug\netcoreapp2.0\Avatar.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\ExamSample12July2017\Avatar\bin\Debug\netcoreapp2.0\Avatar.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\ExamSample12July2017\Avatar\bin\Debug\netcoreapp2.0\Avatar.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\ExamSample12July2017\Avatar\obj\Debug\netcoreapp2.0\Avatar.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\ExamSample12July2017\Avatar\obj\Debug\netcoreapp2.0\Avatar.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\ExamSample12July2017\Avatar\obj\Debug\netcoreapp2.0\Avatar.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\ExamSample12July2017\Avatar\obj\Debug\netcoreapp2.0\Avatar.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\ExamSample12July2017\Avatar\obj\Debug\netcoreapp2.0\Avatar.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\ExamSample12July2017\Avatar\obj\Debug\netcoreapp2.0\Avatar.pdb

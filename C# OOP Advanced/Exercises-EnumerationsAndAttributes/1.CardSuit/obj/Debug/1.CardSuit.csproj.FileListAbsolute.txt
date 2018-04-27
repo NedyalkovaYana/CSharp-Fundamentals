@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\1.CardSuit\bin\Debug\1.CardSuit.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\1.CardSuit\bin\Debug\1.CardSuit.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\1.CardSuit\bin\Debug\1.CardSuit.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\1.CardSuit\obj\Debug\1.CardSuit.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\1.CardSuit\obj\Debug\1.CardSuit.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\1.CardSuit\obj\Debug\1.CardSuit.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\1.CardSuit\obj\Debug\1.CardSuit.pdb

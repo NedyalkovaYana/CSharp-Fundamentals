@@ -1,0 +1,7 @@
+c:\users\yana nedyalkova\Source\Repos\Exam 11 October 2015\03.Shmoogle Counter\bin\Debug\03.Shmoogle Counter.exe.config
+c:\users\yana nedyalkova\Source\Repos\Exam 11 October 2015\03.Shmoogle Counter\bin\Debug\03.Shmoogle Counter.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 11 October 2015\03.Shmoogle Counter\bin\Debug\03.Shmoogle Counter.pdb
+c:\users\yana nedyalkova\Source\Repos\Exam 11 October 2015\03.Shmoogle Counter\obj\Debug\03.Shmoogle Counter.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 11 October 2015\03.Shmoogle Counter\obj\Debug\03.Shmoogle Counter.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 11 October 2015\03.Shmoogle Counter\obj\Debug\03.Shmoogle Counter.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 11 October 2015\03.Shmoogle Counter\obj\Debug\03.Shmoogle Counter.pdb

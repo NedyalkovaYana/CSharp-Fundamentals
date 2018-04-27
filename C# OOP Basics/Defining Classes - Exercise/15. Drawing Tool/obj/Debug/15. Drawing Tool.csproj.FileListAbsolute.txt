@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\15. Drawing Tool\bin\Debug\_15.Drawing_Tool.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\15. Drawing Tool\bin\Debug\_15.Drawing_Tool.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\15. Drawing Tool\bin\Debug\_15.Drawing_Tool.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\15. Drawing Tool\obj\Debug\15. Drawing Tool.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\15. Drawing Tool\obj\Debug\_15.Drawing_Tool.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\15. Drawing Tool\obj\Debug\_15.Drawing_Tool.pdb

@@ -1,0 +1,17 @@
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\bin\Debug\netcoreapp2.0\BashSoftTesting.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\bin\Debug\netcoreapp2.0\BashSoftTesting.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\bin\Debug\netcoreapp2.0\BashSoftTesting.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\bin\Debug\netcoreapp2.0\BashSoftTesting.dll
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\bin\Debug\netcoreapp2.0\BashSoftTesting.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\bin\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\bin\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\obj\Debug\netcoreapp2.0\BashSoftTesting.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\obj\Debug\netcoreapp2.0\BashSoftTesting.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\obj\Debug\netcoreapp2.0\BashSoftTesting.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\obj\Debug\netcoreapp2.0\BashSoftTesting.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\obj\Debug\netcoreapp2.0\BashSoftTesting.csproj.CopyComplete
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\obj\Debug\netcoreapp2.0\BashSoftTesting.dll
+C:\Users\Yana Nedyalkova\Source\Repos\BashSoft-FinalPart\BashSoft.Tests\BashSoftTesting\obj\Debug\netcoreapp2.0\BashSoftTesting.pdb

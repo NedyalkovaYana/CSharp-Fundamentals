@@ -1,0 +1,7 @@
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\02. Parking System\bin\Debug\_02.Parking_System.exe.config
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\02. Parking System\bin\Debug\_02.Parking_System.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\02. Parking System\bin\Debug\_02.Parking_System.pdb
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\02. Parking System\obj\Debug\02. Parking System.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\02. Parking System\obj\Debug\02. Parking System.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\02. Parking System\obj\Debug\_02.Parking_System.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 28 February 2016\02. Parking System\obj\Debug\_02.Parking_System.pdb

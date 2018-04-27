@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.pdb

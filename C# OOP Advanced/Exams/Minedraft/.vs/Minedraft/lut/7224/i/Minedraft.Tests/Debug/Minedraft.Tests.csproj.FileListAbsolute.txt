@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft\.vs\Minedraft\lut\0\b\Minedraft.Tests\bin\Debug\Minedraft.Tests.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft\.vs\Minedraft\lut\0\b\Minedraft.Tests\bin\Debug\Minedraft.Tests.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft\.vs\Minedraft\lut\0\i\Minedraft.Tests\Debug\Minedraft.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft\.vs\Minedraft\lut\0\i\Minedraft.Tests\Debug\Minedraft.Tests.csproj.CopyComplete
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft\.vs\Minedraft\lut\0\i\Minedraft.Tests\Debug\Minedraft.Tests.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft\.vs\Minedraft\lut\0\i\Minedraft.Tests\Debug\Minedraft.Tests.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft\.vs\Minedraft\lut\0\i\Minedraft.Tests\Debug\Minedraft.Tests.csprojResolveAssemblyReference.cache

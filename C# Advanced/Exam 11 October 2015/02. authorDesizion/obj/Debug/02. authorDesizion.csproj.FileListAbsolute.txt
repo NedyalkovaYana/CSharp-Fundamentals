@@ -1,0 +1,7 @@
+c:\users\yana nedyalkova\Source\Repos\Exam 11 October 2015\02. authorDesizion\bin\Debug\_02.authorDesizion.exe.config
+c:\users\yana nedyalkova\Source\Repos\Exam 11 October 2015\02. authorDesizion\bin\Debug\_02.authorDesizion.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 11 October 2015\02. authorDesizion\bin\Debug\_02.authorDesizion.pdb
+c:\users\yana nedyalkova\Source\Repos\Exam 11 October 2015\02. authorDesizion\obj\Debug\02. authorDesizion.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 11 October 2015\02. authorDesizion\obj\Debug\02. authorDesizion.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 11 October 2015\02. authorDesizion\obj\Debug\_02.authorDesizion.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 11 October 2015\02. authorDesizion\obj\Debug\_02.authorDesizion.pdb

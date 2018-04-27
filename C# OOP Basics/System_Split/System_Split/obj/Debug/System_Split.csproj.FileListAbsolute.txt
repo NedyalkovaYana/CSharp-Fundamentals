@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\System_Split\System_Split\obj\Debug\System_Split.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\System_Split\System_Split\obj\Debug\System_Split.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\System_Split\System_Split\bin\Debug\System_Split.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\System_Split\System_Split\bin\Debug\System_Split.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\System_Split\System_Split\bin\Debug\System_Split.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\System_Split\System_Split\obj\Debug\System_Split.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\System_Split\System_Split\obj\Debug\System_Split.pdb

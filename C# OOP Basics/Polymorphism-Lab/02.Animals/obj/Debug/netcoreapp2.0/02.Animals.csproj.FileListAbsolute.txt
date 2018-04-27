@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\02.Animals\bin\Debug\netcoreapp2.0\02.Animals.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\02.Animals\bin\Debug\netcoreapp2.0\02.Animals.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\02.Animals\bin\Debug\netcoreapp2.0\02.Animals.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\02.Animals\bin\Debug\netcoreapp2.0\02.Animals.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\02.Animals\bin\Debug\netcoreapp2.0\02.Animals.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Polymorphism-Lab\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.pdb

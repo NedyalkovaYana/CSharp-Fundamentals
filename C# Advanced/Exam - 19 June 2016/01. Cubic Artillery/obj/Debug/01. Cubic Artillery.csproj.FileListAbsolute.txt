@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam - 19 June 2016\01. Cubic Artillery\bin\Debug\_01.Cubic_Artillery.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam - 19 June 2016\01. Cubic Artillery\bin\Debug\_01.Cubic_Artillery.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam - 19 June 2016\01. Cubic Artillery\bin\Debug\_01.Cubic_Artillery.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam - 19 June 2016\01. Cubic Artillery\obj\Debug\01. Cubic Artillery.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam - 19 June 2016\01. Cubic Artillery\obj\Debug\01. Cubic Artillery.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam - 19 June 2016\01. Cubic Artillery\obj\Debug\_01.Cubic_Artillery.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam - 19 June 2016\01. Cubic Artillery\obj\Debug\_01.Cubic_Artillery.pdb

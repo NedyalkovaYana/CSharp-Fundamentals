@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Lab-IteratorsAndComparators\4.BookComparator\bin\Debug\4.BookComparator.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Lab-IteratorsAndComparators\4.BookComparator\bin\Debug\4.BookComparator.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Lab-IteratorsAndComparators\4.BookComparator\bin\Debug\4.BookComparator.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Lab-IteratorsAndComparators\4.BookComparator\obj\Debug\4.BookComparator.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Lab-IteratorsAndComparators\4.BookComparator\obj\Debug\4.BookComparator.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Lab-IteratorsAndComparators\4.BookComparator\obj\Debug\4.BookComparator.pdb

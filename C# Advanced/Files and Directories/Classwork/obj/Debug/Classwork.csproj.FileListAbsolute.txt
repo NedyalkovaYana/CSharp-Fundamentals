@@ -1,0 +1,8 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\Classwork\bin\Debug\Classwork.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\Classwork\bin\Debug\Classwork.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\Classwork\bin\Debug\Classwork.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\Classwork\obj\Debug\Classwork.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\Classwork\obj\Debug\Classwork.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\Classwork\obj\Debug\Classwork.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\Classwork\obj\Debug\Classwork.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\Classwork\bin\Debug\numbers.txt.txt

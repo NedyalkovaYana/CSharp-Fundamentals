@@ -1,0 +1,33 @@
+C:\Users\david\Desktop\ref\HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.deps.json
+C:\Users\david\Desktop\ref\HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.runtimeconfig.json
+C:\Users\david\Desktop\ref\HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.runtimeconfig.dev.json
+C:\Users\david\Desktop\ref\HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.dll
+C:\Users\david\Desktop\ref\HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.pdb
+C:\Users\david\Desktop\ref\HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\ref\HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\ref\HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\ref\HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.AssemblyInfo.cs
+C:\Users\david\Desktop\ref\HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.dll
+C:\Users\david\Desktop\ref\HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.pdb
+C:\Users\david\Desktop\ref\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.deps.json
+C:\Users\david\Desktop\ref\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.runtimeconfig.json
+C:\Users\david\Desktop\ref\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.runtimeconfig.dev.json
+C:\Users\david\Desktop\ref\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.dll
+C:\Users\david\Desktop\ref\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.pdb
+C:\Users\david\Desktop\ref\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\ref\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\ref\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\ref\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.AssemblyInfo.cs
+C:\Users\david\Desktop\ref\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.dll
+C:\Users\david\Desktop\ref\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Reflection-Exercises\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.pdb

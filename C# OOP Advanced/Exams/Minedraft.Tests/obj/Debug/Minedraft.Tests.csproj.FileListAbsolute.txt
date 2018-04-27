@@ -1,0 +1,12 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft.Tests\bin\Debug\Minedraft.Tests.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft.Tests\bin\Debug\Minedraft.Tests.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft.Tests\bin\Debug\Minedraft.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft.Tests\bin\Debug\Minedraft.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft.Tests\bin\Debug\Minedraft.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft.Tests\obj\Debug\Minedraft.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft.Tests\obj\Debug\Minedraft.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft.Tests\obj\Debug\Minedraft.Tests.csproj.CopyComplete
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft.Tests\obj\Debug\Minedraft.Tests.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\Minedraft.Tests\obj\Debug\Minedraft.Tests.pdb

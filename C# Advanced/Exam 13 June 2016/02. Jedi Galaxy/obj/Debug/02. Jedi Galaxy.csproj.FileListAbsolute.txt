@@ -1,0 +1,7 @@
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\02. Jedi Galaxy\bin\Debug\_02.Jedi_Galaxy.exe.config
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\02. Jedi Galaxy\bin\Debug\_02.Jedi_Galaxy.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\02. Jedi Galaxy\bin\Debug\_02.Jedi_Galaxy.pdb
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\02. Jedi Galaxy\obj\Debug\02. Jedi Galaxy.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\02. Jedi Galaxy\obj\Debug\02. Jedi Galaxy.csproj.CoreCompileInputs.cache
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\02. Jedi Galaxy\obj\Debug\_02.Jedi_Galaxy.exe
+c:\users\yana nedyalkova\Source\Repos\Exam 13 June 2016\02. Jedi Galaxy\obj\Debug\_02.Jedi_Galaxy.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam - 19 June 2016\04. Cubic Assault\bin\Debug\_04.Cubic_Assault.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam - 19 June 2016\04. Cubic Assault\bin\Debug\_04.Cubic_Assault.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam - 19 June 2016\04. Cubic Assault\bin\Debug\_04.Cubic_Assault.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam - 19 June 2016\04. Cubic Assault\obj\Debug\04. Cubic Assault.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam - 19 June 2016\04. Cubic Assault\obj\Debug\_04.Cubic_Assault.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam - 19 June 2016\04. Cubic Assault\obj\Debug\_04.Cubic_Assault.pdb

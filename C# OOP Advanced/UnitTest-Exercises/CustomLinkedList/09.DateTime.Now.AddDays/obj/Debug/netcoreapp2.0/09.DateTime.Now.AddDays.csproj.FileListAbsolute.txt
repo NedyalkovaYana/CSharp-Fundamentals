@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\09.DateTime.Now.AddDays\bin\Debug\netcoreapp2.0\09.DateTime.Now.AddDays.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\09.DateTime.Now.AddDays\bin\Debug\netcoreapp2.0\09.DateTime.Now.AddDays.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\09.DateTime.Now.AddDays\bin\Debug\netcoreapp2.0\09.DateTime.Now.AddDays.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\09.DateTime.Now.AddDays\bin\Debug\netcoreapp2.0\09.DateTime.Now.AddDays.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\09.DateTime.Now.AddDays\bin\Debug\netcoreapp2.0\09.DateTime.Now.AddDays.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\09.DateTime.Now.AddDays\obj\Debug\netcoreapp2.0\09.DateTime.Now.AddDays.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\09.DateTime.Now.AddDays\obj\Debug\netcoreapp2.0\09.DateTime.Now.AddDays.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\09.DateTime.Now.AddDays\obj\Debug\netcoreapp2.0\09.DateTime.Now.AddDays.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\09.DateTime.Now.AddDays\obj\Debug\netcoreapp2.0\09.DateTime.Now.AddDays.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\09.DateTime.Now.AddDays\obj\Debug\netcoreapp2.0\09.DateTime.Now.AddDays.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\CustomLinkedList\09.DateTime.Now.AddDays\obj\Debug\netcoreapp2.0\09.DateTime.Now.AddDays.pdb

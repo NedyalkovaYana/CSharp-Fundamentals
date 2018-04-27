@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\05. Date Modifier\bin\Debug\_05.Date_Modifier.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\05. Date Modifier\bin\Debug\_05.Date_Modifier.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\05. Date Modifier\bin\Debug\_05.Date_Modifier.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\05. Date Modifier\obj\Debug\05. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\05. Date Modifier\obj\Debug\_05.Date_Modifier.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\05. Date Modifier\obj\Debug\_05.Date_Modifier.pdb

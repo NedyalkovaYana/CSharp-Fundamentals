@@ -1,0 +1,13 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\LastArmy.Tests\bin\Debug\LastArmy.Tests.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\LastArmy.Tests\bin\Debug\LastArmy.Tests.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\LastArmy.Tests\bin\Debug\Last Army.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\LastArmy.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\LastArmy.Tests\bin\Debug\Last Army.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\LastArmy.Tests\bin\Debug\Last Army.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\LastArmy.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\LastArmy.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\LastArmy.Tests\obj\Debug\LastArmy.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\LastArmy.Tests\obj\Debug\LastArmy.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\LastArmy.Tests\obj\Debug\LastArmy.Tests.csproj.CopyComplete
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\LastArmy.Tests\obj\Debug\LastArmy.Tests.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\LastArmy.Tests\obj\Debug\LastArmy.Tests.pdb

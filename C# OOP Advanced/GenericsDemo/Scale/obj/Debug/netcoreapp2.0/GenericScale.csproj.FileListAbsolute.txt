@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\Scale\bin\Debug\netcoreapp2.0\GenericScale.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\Scale\bin\Debug\netcoreapp2.0\GenericScale.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\Scale\bin\Debug\netcoreapp2.0\GenericScale.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\Scale\bin\Debug\netcoreapp2.0\GenericScale.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\Scale\bin\Debug\netcoreapp2.0\GenericScale.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\Scale\obj\Debug\netcoreapp2.0\GenericScale.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\Scale\obj\Debug\netcoreapp2.0\GenericScale.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\Scale\obj\Debug\netcoreapp2.0\GenericScale.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\Scale\obj\Debug\netcoreapp2.0\GenericScale.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\Scale\obj\Debug\netcoreapp2.0\GenericScale.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsDemo\Scale\obj\Debug\netcoreapp2.0\GenericScale.pdb

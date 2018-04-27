@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\01.Stealer\bin\Debug\01.Stealer.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\01.Stealer\bin\Debug\01.Stealer.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\01.Stealer\bin\Debug\01.Stealer.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\01.Stealer.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\01.Stealer.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\01.Stealer.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\01.Stealer.pdb

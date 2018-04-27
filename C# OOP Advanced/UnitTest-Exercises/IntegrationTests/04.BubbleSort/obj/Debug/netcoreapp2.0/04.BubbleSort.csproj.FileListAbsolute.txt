@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\04.BubbleSort\bin\Debug\netcoreapp2.0\04.BubbleSort.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\04.BubbleSort\bin\Debug\netcoreapp2.0\04.BubbleSort.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\04.BubbleSort\bin\Debug\netcoreapp2.0\04.BubbleSort.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\04.BubbleSort\bin\Debug\netcoreapp2.0\04.BubbleSort.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\04.BubbleSort\bin\Debug\netcoreapp2.0\04.BubbleSort.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\UnitTest-Exercises\05.IntegrationTests\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.pdb

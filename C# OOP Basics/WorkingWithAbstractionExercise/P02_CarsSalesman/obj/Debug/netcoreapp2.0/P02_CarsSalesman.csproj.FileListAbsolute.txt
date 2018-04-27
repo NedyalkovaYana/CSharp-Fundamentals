@@ -1,0 +1,10 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\WorkingWithAbstractionExercise\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\WorkingWithAbstractionExercise\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\WorkingWithAbstractionExercise\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\WorkingWithAbstractionExercise\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\WorkingWithAbstractionExercise\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\WorkingWithAbstractionExercise\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\WorkingWithAbstractionExercise\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\WorkingWithAbstractionExercise\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\WorkingWithAbstractionExercise\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\WorkingWithAbstractionExercise\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.pdb

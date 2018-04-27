@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\netcoreapp2.0\02.Cars.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\netcoreapp2.0\02.Cars.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\netcoreapp2.0\02.Cars.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\netcoreapp2.0\02.Cars.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\netcoreapp2.0\02.Cars.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.pdb

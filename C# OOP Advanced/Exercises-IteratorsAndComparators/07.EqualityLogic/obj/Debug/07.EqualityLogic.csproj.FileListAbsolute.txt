@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\07.EqualityLogic\bin\Debug\07.EqualityLogic.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\07.EqualityLogic\bin\Debug\07.EqualityLogic.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\07.EqualityLogic\bin\Debug\07.EqualityLogic.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\07.EqualityLogic\obj\Debug\07.EqualityLogic.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\07.EqualityLogic\obj\Debug\07.EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\07.EqualityLogic\obj\Debug\07.EqualityLogic.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-IteratorsAndComparators\07.EqualityLogic\obj\Debug\07.EqualityLogic.pdb

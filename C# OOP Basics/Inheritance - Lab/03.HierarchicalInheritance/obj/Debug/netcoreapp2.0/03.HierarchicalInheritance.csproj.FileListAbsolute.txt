@@ -1,0 +1,10 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp2.0\03.HierarchicalInheritance.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp2.0\03.HierarchicalInheritance.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp2.0\03.HierarchicalInheritance.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp2.0\03.HierarchicalInheritance.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp2.0\03.HierarchicalInheritance.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp2.0\03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp2.0\03.HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp2.0\03.HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp2.0\03.HierarchicalInheritance.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp2.0\03.HierarchicalInheritance.pdb

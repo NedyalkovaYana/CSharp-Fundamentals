@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\08. Raw Data\bin\Debug\_08.Raw_Data.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\08. Raw Data\bin\Debug\_08.Raw_Data.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\08. Raw Data\bin\Debug\_08.Raw_Data.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\08. Raw Data\obj\Debug\08. Raw Data.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\08. Raw Data\obj\Debug\08. Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\08. Raw Data\obj\Debug\_08.Raw_Data.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Exercise\08. Raw Data\obj\Debug\_08.Raw_Data.pdb

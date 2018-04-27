@@ -1,0 +1,10 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\11.Tuple\bin\Debug\netcoreapp2.0\11.Tuple.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\11.Tuple\bin\Debug\netcoreapp2.0\11.Tuple.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\11.Tuple\bin\Debug\netcoreapp2.0\11.Tuple.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\11.Tuple\bin\Debug\netcoreapp2.0\11.Tuple.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\11.Tuple\bin\Debug\netcoreapp2.0\11.Tuple.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\11.Tuple\obj\Debug\netcoreapp2.0\11.Tuple.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\11.Tuple\obj\Debug\netcoreapp2.0\11.Tuple.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\11.Tuple\obj\Debug\netcoreapp2.0\11.Tuple.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\11.Tuple\obj\Debug\netcoreapp2.0\11.Tuple.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\GenericsExercise\11.Tuple\obj\Debug\netcoreapp2.0\11.Tuple.pdb

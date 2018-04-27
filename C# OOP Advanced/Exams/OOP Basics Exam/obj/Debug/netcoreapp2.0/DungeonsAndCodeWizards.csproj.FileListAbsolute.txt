@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\OOP Basics Exam\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\OOP Basics Exam\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\OOP Basics Exam\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\OOP Basics Exam\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\OOP Basics Exam\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\OOP Basics Exam\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\OOP Basics Exam\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\OOP Basics Exam\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\OOP Basics Exam\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\OOP Basics Exam\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exams\OOP Basics Exam\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb

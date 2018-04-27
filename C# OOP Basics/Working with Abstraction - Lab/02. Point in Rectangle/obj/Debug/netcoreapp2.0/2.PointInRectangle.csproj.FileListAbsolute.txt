@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\2. Point in Rectangle\bin\Debug\netcoreapp2.0\2.PointInRectangle.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\2. Point in Rectangle\bin\Debug\netcoreapp2.0\2.PointInRectangle.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\2. Point in Rectangle\bin\Debug\netcoreapp2.0\2.PointInRectangle.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\2. Point in Rectangle\bin\Debug\netcoreapp2.0\2.PointInRectangle.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\2. Point in Rectangle\bin\Debug\netcoreapp2.0\2.PointInRectangle.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\2. Point in Rectangle\obj\Debug\netcoreapp2.0\2.PointInRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\2. Point in Rectangle\obj\Debug\netcoreapp2.0\2.PointInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\2. Point in Rectangle\obj\Debug\netcoreapp2.0\2.PointInRectangle.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\2. Point in Rectangle\obj\Debug\netcoreapp2.0\2.PointInRectangle.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\2. Point in Rectangle\obj\Debug\netcoreapp2.0\2.PointInRectangle.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Working with Abstraction - Lab\2. Point in Rectangle\obj\Debug\netcoreapp2.0\2.PointInRectangle.pdb

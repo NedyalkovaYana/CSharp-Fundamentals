@@ -1,0 +1,8 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\TreverstDirectory\bin\Debug\TreverstDirectory.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\TreverstDirectory\bin\Debug\TreverstDirectory.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\TreverstDirectory\bin\Debug\TreverstDirectory.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\TreverstDirectory\obj\Debug\TraverseDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\TreverstDirectory\obj\Debug\TreverstDirectory.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\TreverstDirectory\obj\Debug\TreverstDirectory.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\TreverstDirectory\bin\Debug\myFile.txt
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Files and Directories\TreverstDirectory\obj\Debug\TraverseDirectory.csprojResolveAssemblyReference.cache

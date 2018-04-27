@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\09.TrafficLight\bin\Debug\09.TrafficLight.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\09.TrafficLight\bin\Debug\09.TrafficLight.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\09.TrafficLight\bin\Debug\09.TrafficLight.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\09.TrafficLight\obj\Debug\9.TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\09.TrafficLight\obj\Debug\9.TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\09.TrafficLight\obj\Debug\09.TrafficLight.exe
+C:\Users\Yana Nedyalkova\Source\Repos\ООP Advanced\Exercises-EnumerationsAndAttributes\09.TrafficLight\obj\Debug\09.TrafficLight.pdb

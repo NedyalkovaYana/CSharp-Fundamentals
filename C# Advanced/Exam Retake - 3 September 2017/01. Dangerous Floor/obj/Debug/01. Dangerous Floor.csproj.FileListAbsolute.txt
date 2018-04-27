@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\01. Dangerous Floor\bin\Debug\_01.Dangerous_Floor.exe.config
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\01. Dangerous Floor\bin\Debug\_01.Dangerous_Floor.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\01. Dangerous Floor\bin\Debug\_01.Dangerous_Floor.pdb
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\01. Dangerous Floor\obj\Debug\01. Dangerous Floor.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\01. Dangerous Floor\obj\Debug\01. Dangerous Floor.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\01. Dangerous Floor\obj\Debug\_01.Dangerous_Floor.exe
+C:\Users\Yana Nedyalkova\Desktop\CSharp-Fundamentals\C# Advanced\Exam Retake - 3 September 2017\01. Dangerous Floor\obj\Debug\_01.Dangerous_Floor.pdb

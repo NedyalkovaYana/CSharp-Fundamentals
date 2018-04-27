@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\InterfacesAndAbstraction-Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.pdb

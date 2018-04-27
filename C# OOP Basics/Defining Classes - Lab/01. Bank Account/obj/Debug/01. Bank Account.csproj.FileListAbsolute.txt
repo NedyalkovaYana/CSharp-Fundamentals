@@ -1,0 +1,7 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Lab\01. Bank Account\bin\Debug\_01.Bank_Account.exe.config
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Lab\01. Bank Account\bin\Debug\_01.Bank_Account.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Lab\01. Bank Account\bin\Debug\_01.Bank_Account.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Lab\01. Bank Account\obj\Debug\01. Bank Account.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Lab\01. Bank Account\obj\Debug\01. Bank Account.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Lab\01. Bank Account\obj\Debug\_01.Bank_Account.exe
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Defining Classes - Lab\01. Bank Account\obj\Debug\_01.Bank_Account.pdb

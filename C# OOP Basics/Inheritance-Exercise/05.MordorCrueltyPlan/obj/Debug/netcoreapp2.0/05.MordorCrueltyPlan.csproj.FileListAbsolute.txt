@@ -1,0 +1,11 @@
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\05.MordorCrueltyPlan\bin\Debug\netcoreapp2.0\05.MordorCrueltyPlan.deps.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\05.MordorCrueltyPlan\bin\Debug\netcoreapp2.0\05.MordorCrueltyPlan.runtimeconfig.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\05.MordorCrueltyPlan\bin\Debug\netcoreapp2.0\05.MordorCrueltyPlan.runtimeconfig.dev.json
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\05.MordorCrueltyPlan\bin\Debug\netcoreapp2.0\05.MordorCrueltyPlan.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\05.MordorCrueltyPlan\bin\Debug\netcoreapp2.0\05.MordorCrueltyPlan.pdb
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\05.MordorCrueltyPlan\obj\Debug\netcoreapp2.0\05.MordorCrueltyPlan.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\05.MordorCrueltyPlan\obj\Debug\netcoreapp2.0\05.MordorCrueltyPlan.csproj.CoreCompileInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\05.MordorCrueltyPlan\obj\Debug\netcoreapp2.0\05.MordorCrueltyPlan.AssemblyInfoInputs.cache
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\05.MordorCrueltyPlan\obj\Debug\netcoreapp2.0\05.MordorCrueltyPlan.AssemblyInfo.cs
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\05.MordorCrueltyPlan\obj\Debug\netcoreapp2.0\05.MordorCrueltyPlan.dll
+C:\Users\Yana Nedyalkova\Source\Repos\OOP Basics\Inheritance-Exercise\05.MordorCrueltyPlan\obj\Debug\netcoreapp2.0\05.MordorCrueltyPlan.pdb
