@@ -1,0 +1,4 @@
+King Its is under attack!
+Royal Guard The is defending!
+Royal Guard small is defending!
+Footman test is panicking!

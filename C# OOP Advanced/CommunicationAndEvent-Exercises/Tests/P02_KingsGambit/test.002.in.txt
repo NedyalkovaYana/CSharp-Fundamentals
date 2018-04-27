@@ -1,0 +1,12 @@
+Arthur
+Galahad Lancelot Gawain Percival Bedivere
+PeasantZack
+Kill Galahad
+Kill Gawain
+Kill Percival
+Attack King
+Kill PeasantZack
+Attack King
+Kill Lancelot
+Attack King
+End

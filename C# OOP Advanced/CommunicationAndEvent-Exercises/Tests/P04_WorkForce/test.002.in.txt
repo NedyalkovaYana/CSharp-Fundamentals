@@ -1,0 +1,10 @@
+StandartEmployee Robot1
+Pass Week
+Job DoRobotThings 1000 Robot1
+Pass Week
+Status
+StandartEmployee AwesomeRobot
+Job BeAwesome 40 AwesomeRobot
+Status
+Pass Week
+End

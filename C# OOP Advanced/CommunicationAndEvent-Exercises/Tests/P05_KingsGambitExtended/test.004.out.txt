@@ -1,0 +1,6 @@
+King TestKing is under attack!
+Royal Guard TestRoyalGuard is defending!
+Footman TestFootman is panicking!
+King TestKing is under attack!
+Royal Guard TestRoyalGuard is defending!
+Footman TestFootman is panicking!

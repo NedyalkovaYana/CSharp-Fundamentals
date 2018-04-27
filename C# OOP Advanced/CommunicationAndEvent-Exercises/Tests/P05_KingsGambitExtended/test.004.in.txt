@@ -1,0 +1,9 @@
+TestKing
+TestRoyalGuard
+TestFootman
+Attack King
+Kill TestRoyalGuard
+Kill TestRoyalGuard
+Kill TestFootman
+Attack King
+End

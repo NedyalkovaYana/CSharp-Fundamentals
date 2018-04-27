@@ -1,0 +1,2 @@
+Dispatcher's name changed to IAmDispatcher.
+Dispatcher's name changed to NotHandler.

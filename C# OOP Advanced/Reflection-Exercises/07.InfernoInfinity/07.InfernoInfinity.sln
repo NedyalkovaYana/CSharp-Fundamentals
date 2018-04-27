@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.InfernoInfinity", "07.InfernoInfinity\07.InfernoInfinity.csproj", "{22C01360-AC84-4161-A2BA-5C061D42E610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CreateCustomClassAttribute", "08.CreateCustomClassAttribute\08.CreateCustomClassAttribute.csproj", "{9E986A94-AA78-42CB-BFA7-8F0415BCEE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22C01360-AC84-4161-A2BA-5C061D42E610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C01360-AC84-4161-A2BA-5C061D42E610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C01360-AC84-4161-A2BA-5C061D42E610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C01360-AC84-4161-A2BA-5C061D42E610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E986A94-AA78-42CB-BFA7-8F0415BCEE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E986A94-AA78-42CB-BFA7-8F0415BCEE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E986A94-AA78-42CB-BFA7-8F0415BCEE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E986A94-AA78-42CB-BFA7-8F0415BCEE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59EA3BB5-AB5A-4812-96BF-7FCDED547455}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forum.App", "Forum.App/Forum.App.csproj", "{60203576-0ECA-4E90-AC0F-6B42E499C9D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forum.Models", "Forum.Models\Forum.Models.csproj", "{CDA6FFE8-5647-4162-BF29-9E3255C661F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forum.Data", "Forum.Data\Forum.Data.csproj", "{5B07C03A-214B-485E-8D34-9768C4BEA4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60203576-0ECA-4E90-AC0F-6B42E499C9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60203576-0ECA-4E90-AC0F-6B42E499C9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60203576-0ECA-4E90-AC0F-6B42E499C9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60203576-0ECA-4E90-AC0F-6B42E499C9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA6FFE8-5647-4162-BF29-9E3255C661F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA6FFE8-5647-4162-BF29-9E3255C661F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA6FFE8-5647-4162-BF29-9E3255C661F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA6FFE8-5647-4162-BF29-9E3255C661F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B07C03A-214B-485E-8D34-9768C4BEA4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B07C03A-214B-485E-8D34-9768C4BEA4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B07C03A-214B-485E-8D34-9768C4BEA4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B07C03A-214B-485E-8D34-9768C4BEA4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E1E9021-C45F-487B-81A5-236D7B9F95EC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+Kong
+Plane1 Plane2
+ScreamingCitizen1 ScreamingCitizen2 ScreamingCitizen3
+Kill ScreamingCitizen2
+Attack King
+Attack King
+Attack King
+End

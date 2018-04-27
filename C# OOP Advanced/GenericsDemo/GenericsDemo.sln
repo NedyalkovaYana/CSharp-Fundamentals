@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Box", "GenericsDemo\Box.csproj", "{A38B4526-CE39-423F-B22A-C7623C8D85FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericScale", "Scale\GenericScale.csproj", "{59AE0182-692B-47E6-BD02-BFC6661B794A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCreator", "ArrayCreator\ArrayCreator.csproj", "{2726C641-0019-44C4-91E2-35C142B5AF1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A38B4526-CE39-423F-B22A-C7623C8D85FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38B4526-CE39-423F-B22A-C7623C8D85FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38B4526-CE39-423F-B22A-C7623C8D85FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38B4526-CE39-423F-B22A-C7623C8D85FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59AE0182-692B-47E6-BD02-BFC6661B794A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AE0182-692B-47E6-BD02-BFC6661B794A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AE0182-692B-47E6-BD02-BFC6661B794A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AE0182-692B-47E6-BD02-BFC6661B794A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2726C641-0019-44C4-91E2-35C142B5AF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2726C641-0019-44C4-91E2-35C142B5AF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2726C641-0019-44C4-91E2-35C142B5AF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2726C641-0019-44C4-91E2-35C142B5AF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0105AA2F-CD79-4723-9206-3F1A34027D2F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+TestKing
+TestRoyalGuard
+TestFootman
+Attack King
+Attack King
+Attack King
+Attack King
+Attack King
+Kill TestRoyalGuard
+Attack King
+End

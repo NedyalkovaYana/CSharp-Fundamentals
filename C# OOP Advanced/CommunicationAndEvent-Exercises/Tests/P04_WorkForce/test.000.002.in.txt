@@ -1,0 +1,12 @@
+PartTimeEmployee Penka
+PartTimeEmployee Vanka
+PartTimeEmployee Stanka
+Job Something 177 Stanka
+Pass Week
+Job AnotherThing 33 Vanka
+Status
+Pass Week
+Pass Week
+Pass Week
+Status
+End

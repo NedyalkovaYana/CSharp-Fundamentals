@@ -1,0 +1,14 @@
+PartTimeEmployee Emp1
+StandartEmployee Emp2
+Job job1 1 Emp2
+StandartEmployee Emp3
+StandartEmployee Emp4
+PartTimeEmployee Emp5
+Job job2 1 Emp1
+Job job3 2 Emp5
+Job job4 3 Emp1
+Job job5 4 Emp4
+Job job6 1 Emp3
+Job job7 2 Emp4
+Status
+End

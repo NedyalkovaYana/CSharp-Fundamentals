@@ -1,0 +1,9 @@
+mode +
+0 0
+mode -
+0 0
+mode *
+0 0
+mode /
+0 1
+End

@@ -1,0 +1,13 @@
+PartTimeEmployee Pesho
+StandartEmployee Asen
+Job PumpTheTires 50 Asen
+Pass Week
+Job WriteCode 999 Asen
+Job FeedTheLions 1 Asen
+Pass Week
+Job Wazaaaa 33 Pesho
+Pass Week
+Job PeshosJob 21 Pesho
+Status
+Pass Week
+End
